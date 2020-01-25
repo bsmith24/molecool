@@ -23,3 +23,7 @@ This repository is currently under development. To do a developmental install, d
 
 in the repository directory (directory with setup.py)
 
+This package requires the following:
+   - numpy
+   - matplotlib
+
